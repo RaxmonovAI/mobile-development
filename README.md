@@ -1,13 +1,5 @@
 
 
-<details>
-<summary>Click to expand demo video (Camera, Geolocation, Photos/Videos)</summary>
-
-
-https://github.com/TTPU-ORG/YOUR-REPO/assets/VIDEO_ID
-
-</details>
-
 ## Permission Handling Code & Explanation
 
 ```kotlin
